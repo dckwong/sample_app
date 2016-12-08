@@ -1,3 +1,4 @@
+require "active_record/railtie"
 require_relative 'boot'
 
 require 'rails/all'
