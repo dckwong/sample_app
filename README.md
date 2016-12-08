@@ -1,4 +1,4 @@
-Chapter 3: Rail's tutorial
+Chapter 3&4: Rail's tutorial
 
 https://www.railstutorial.org/book/static_pages
 
